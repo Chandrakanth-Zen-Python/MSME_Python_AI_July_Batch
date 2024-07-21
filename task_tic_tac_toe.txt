@@ -1,0 +1,39 @@
+Create a Tic-Tac-Toe using instructions given below
+
+Setup the Game Board:
+
+Create a function to display the game board.
+Use a list to represent the board.
+Initialize the Game:
+
+Create a function to initialize the game.
+Set up an empty board and determine the starting player.
+
+
+Player Input:
+
+Create a function to handle player input.
+Ensure the input is valid (a number between 1 and 9, and an empty position).
+
+
+Update the Board:
+
+Create a function to update the board with the player's move.
+
+Check for a Win or Tie:
+
+Create a function to check if a player has won.
+Create a function to check if the game is a tie.
+
+Switch Player:
+
+Create a function to switch between players.
+
+Main Game Loop:
+
+Create a function that ties all previous functions together in a loop.
+Display the board, get player input, update the board, check for a win or tie, and switch players.
+
+Start the Game:
+
+Add a condition to start the game when the script is run.

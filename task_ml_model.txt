@@ -1,0 +1,6 @@
+Improve the rmse & mse score of linear model using dataset used in the session using standard scalar method.
+
+dataset > https://github.com/ageron/data/raw/main/housing.tgz
+
+
+Find the rmse score and mse score of your model.
